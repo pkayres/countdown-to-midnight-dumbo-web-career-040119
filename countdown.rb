@@ -6,4 +6,5 @@ while integer > 0
   integer -= 1
   break if integer == 0
 end
+puts "HAPPY NEW YEAR!"
 end
